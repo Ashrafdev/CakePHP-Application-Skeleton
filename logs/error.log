@@ -1,0 +1,20 @@
+2016-04-02 11:24:50 Error: [Cake\Core\Exception\MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 C:\laragon\www\Repo_git\events\config\bootstrap.php(169): Cake\Core\Plugin::load('DebugKit', Array)
+#1 C:\laragon\www\Repo_git\events\webroot\index.php(27): require('C:\\laragon\\www\\...')
+#2 {main}
+
+
+2016-04-02 11:25:03 Error: [Cake\Core\Exception\MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 C:\laragon\www\Repo_git\events\config\bootstrap.php(169): Cake\Core\Plugin::load('DebugKit', Array)
+#1 C:\laragon\www\Repo_git\events\webroot\index.php(27): require('C:\\laragon\\www\\...')
+#2 {main}
+
+
